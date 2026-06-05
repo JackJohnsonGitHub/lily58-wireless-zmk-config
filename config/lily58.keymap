@@ -28,7 +28,7 @@
         lower_layer {
             display-name = "Lower";
             bindings = <
-                &bt BT_CLR    &bt BT_ONE    &bt BT_TWO    &trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans
+                &bt BT_CLR    &bt BT_1    &bt BT_2    &trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans
                 &kp F1    &kp F2    &kp F3    &kp F4    &kp F5    &kp F6    &kp F7    &kp F8    &kp F9    &kp F10   &kp F11   &kp F12
                 &kp GRAVE &kp EXCL  &kp AT    &kp HASH  &kp DOLLAR &kp PERCENT &kp CARET &kp AMPERSAND &kp ASTERISK &kp LPAR &kp RPAR &kp TILDE
                 &trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans    &none     &kp UNDER &kp PLUS  &kp LBRC  &kp RBRC  &kp PIPE
